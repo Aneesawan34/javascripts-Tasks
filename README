@@ -1,4 +1,1 @@
-TASK 1
-write an arrow function that reverses a set of numbers when passed as an argument
-Example x = 123456;
-Expected Output : 654321
+write a javascript array that have elements in the form of string like 'abc, georgia' and the return 'bca, georgia '
