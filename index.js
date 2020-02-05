@@ -4,3 +4,7 @@ const items = myArry.forEach(val => {
   //   console.log(val2);
   console.log(val2.reverse().join("") + val.slice(3));
 });
+
+//output : 
+// cba, georgia
+// cba, hello
